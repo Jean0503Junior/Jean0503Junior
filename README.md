@@ -1,0 +1,7 @@
+- Hi, I am Jean Tomaz Dos Santos Junior.
+- I am from Cotia-SP.
+- I'm studying Multiplataform Software Development at FATEC.
+------------------------------------------------------------------------
+- Olá, eu sou o Jean Tomaz Dos Santos Junior.
+- Sou de Cotia-SP.
+- Estou cursando Desenvolvimento de Software Multiplataforma pela FATEC.
